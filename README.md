@@ -6,15 +6,17 @@
 
 *INTERN ID*: CT04DH2473
 
-*DOMAIN": ARTIFICIAL INTELLIGENCE
+*DOMAIN*: ARTIFICIAL INTELLIGENCE
 
-*DURATION: 4 WEEEKS
+*DURATION*: 4 WEEEKS
 
 *MENTOR*: NEELA SANTOSH
 
 #OUTPUT
 
 <img width="1826" height="587" alt="Image" src="https://github.com/user-attachments/assets/94da52f7-6a7c-4f93-ae20-2514eabbabee" />
+
+
 
 🗣️ Project Description: Speech Recognition System Using Python
 The Speech Recognition System developed in this project is designed to convert spoken language (audio input) into written text using artificial intelligence techniques and natural language processing (NLP). The system employs widely-used Python libraries that enable real-time or file-based speech-to-text transcription. The tool is highly flexible and can be used with both online speech (via microphone input) and offline recorded files (such as .wav audio files).
